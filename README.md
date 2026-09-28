@@ -55,7 +55,8 @@ A modern Android music player built with Jetpack Compose.
 ## 📫 Connect
 
 - GitHub: [@Ccroxx1](https://github.com/Ccroxx1)
-- Portfolio: [Films By Sasuu](https://filmsbysasuu.vercel.app/)
+- Portfolio 1: [Films By Sasuu](https://filmsbysasuu.vercel.app/)
+- Portfolio 2: [Cinevault Movies](https://www.cinevaultmovies.online/)
 
 ---
 
